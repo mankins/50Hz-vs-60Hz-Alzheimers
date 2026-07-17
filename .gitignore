@@ -1,0 +1,22 @@
+# Credentials. Never commit.
+.estat_appid
+.env
+
+# Raw data is large and often licence-restricted. Never commit it.
+# data/raw/PROVENANCE.md documents how to re-fetch everything.
+data/raw/*
+!data/raw/PROVENANCE.md
+!data/raw/.gitkeep
+
+# Derived artefacts are regenerable from src/. Do not commit.
+data/processed/*
+!data/processed/.gitkeep
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.venv/
+venv/
+
+tmp/

@@ -1,0 +1,15 @@
+# Analysis environment for the 50vs60 study.
+# Tested on Python 3.10.
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+scipy>=1.10
+statsmodels>=0.14
+openpyxl>=3.1
+requests>=2.31
+
+# Optional — needed only for the Tier 3 spatial regression discontinuity.
+# Install if running src/04_analysis.py with --tier3
+# geopandas>=0.14
+# shapely>=2.0
+# rdrobust>=1.2      # Calonico-Cattaneo-Titiunik robust bias-corrected RD

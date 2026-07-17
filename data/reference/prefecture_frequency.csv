@@ -1,0 +1,48 @@
+jis_code,prefecture_en,prefecture_ja,current_hz,has_internal_split,utility,confidence,notes,gbd_location_id,ever_converted
+01,Hokkaido,北海道,50,False,Hokkaido EPCO,certain,CONVERTED 60->50 west 1943-46,35424,True
+02,Aomori,青森県,50,False,Tohoku EPCO,certain,,35425,False
+03,Iwate,岩手県,50,False,Tohoku EPCO,certain,,35426,False
+04,Miyagi,宮城県,50,False,Tohoku EPCO,certain,,35427,False
+05,Akita,秋田県,50,False,Tohoku EPCO,certain,,35428,False
+06,Yamagata,山形県,50,False,Tohoku EPCO,certain,,35429,False
+07,Fukushima,福島県,50,False,Tohoku/TEPCO,certain,CONVERTED 60->50 Hamadori/Iwaki 1961,35430,True
+08,Ibaraki,茨城県,50,False,TEPCO/Tohoku,certain,"CONVERTED 60->50 north (Mito, Hitachi) 1961",35431,True
+09,Tochigi,栃木県,50,False,TEPCO,certain,,35432,False
+10,Gunma,群馬県,50,True,TEPCO,uncertain,60 Hz area exists per TEPCO tariff but NO source names the municipalities. DO NOT code from Wikipedia.,35433,False
+11,Saitama,埼玉県,50,False,TEPCO,certain,,35434,False
+12,Chiba,千葉県,50,False,TEPCO,certain,,35435,False
+13,Tokyo,東京都,50,False,TEPCO,certain,,35436,False
+14,Kanagawa,神奈川県,50,False,TEPCO,certain,,35437,False
+15,Niigata,新潟県,50,True,Tohoku EPCO,certain,Sado city ALL 60 Hz; parts of Myoko & Itoigawa 60 Hz,35438,False
+16,Toyama,富山県,60,False,Hokuriku,certain,,35439,False
+17,Ishikawa,石川県,60,False,Hokuriku,certain,,35440,False
+18,Fukui,福井県,60,False,Hokuriku/Kansai,certain,"Tsuruga=Hokuriku, Wakasa=Kansai; both 60 Hz, no freq consequence",35441,False
+19,Yamanashi,山梨県,50,False,TEPCO,certain,NOT split. Fuji River rule does NOT apply here -- both banks 50 Hz.,35442,False
+20,Nagano,長野県,60,True,Chubu,certain,60 Hz DOMINANT with 50 Hz hamlets in 9 municipalities. CONVERTED 50->60 by Mar 1961.,35443,True
+21,Gifu,岐阜県,60,False,Chubu,certain,,35444,False
+22,Shizuoka,静岡県,mixed,True,TEPCO/Chubu,certain,"THE boundary. East of Fuji River=50, west=60.",35445,False
+23,Aichi,愛知県,60,False,Chubu,certain,,35446,False
+24,Mie,三重県,60,False,Chubu/Kansai,certain,,35447,False
+25,Shiga,滋賀県,60,False,Kansai,certain,,35448,False
+26,Kyoto,京都府,60,False,Kansai,certain,,35449,False
+27,Osaka,大阪府,60,False,Kansai,certain,,35450,False
+28,Hyogo,兵庫県,60,False,Kansai/Chugoku,certain,,35451,False
+29,Nara,奈良県,60,False,Kansai,certain,,35452,False
+30,Wakayama,和歌山県,60,False,Kansai,certain,,35453,False
+31,Tottori,鳥取県,60,False,Chugoku,certain,,35454,False
+32,Shimane,島根県,60,False,Chugoku,certain,,35455,False
+33,Okayama,岡山県,60,False,Chugoku,certain,,35456,False
+34,Hiroshima,広島県,60,False,Chugoku,certain,,35457,False
+35,Yamaguchi,山口県,60,False,Chugoku,certain,,35458,False
+36,Tokushima,徳島県,60,False,Shikoku,certain,,35459,False
+37,Kagawa,香川県,60,False,Shikoku,certain,,35460,False
+38,Ehime,愛媛県,60,False,Shikoku,certain,,35461,False
+39,Kochi,高知県,60,False,Shikoku,certain,,35462,False
+40,Fukuoka,福岡県,60,False,Kyushu,certain,CONVERTED 50->60 EAST HALF 1949-1960,35463,True
+41,Saga,佐賀県,60,False,Kyushu,certain,,35464,False
+42,Nagasaki,長崎県,60,False,Kyushu,certain,,35465,False
+43,Kumamoto,熊本県,60,False,Kyushu,certain,CONVERTED 50->60 Minamata area 1949-1960,35466,True
+44,Oita,大分県,60,False,Kyushu,certain,CONVERTED 50->60 WHOLE PREFECTURE 1949-1960,35467,True
+45,Miyazaki,宮崎県,60,False,Kyushu,certain,CONVERTED 50->60 WHOLE PREFECTURE 1949-1960,35468,True
+46,Kagoshima,鹿児島県,60,False,Kyushu,certain,CONVERTED 50->60 EAST 1949-1960,35469,True
+47,Okinawa,沖縄県,60,False,Okinawa EPCO,certain,NEVER converted. 1972 reversion was institutional only.,35470,False
