@@ -6,6 +6,17 @@ frequency split as a natural experiment.
 
 ## → Read `REPORT.pdf` first (14 pp). It is the synthesis of everything below.
 
+## Context and Commentary
+
+> [!NOTE]
+> I, Matt Mankins (mankins@gmail.com), am not a scientist trained in the fields presented here. Do not take this for anything other than what it is: a single-session journey with Anthropic's Claude Code to investigate a whim I had many decades ago--I wondered if the addition of electricity to modern life had anything to do with the rise of some diseases, such as Alzheimer's, a disease that took my grandmother. (The conclusions here seem to indicate that no, there's nothing here.)
+>
+> What I find interesting was the use of AI to bring me into domains that I would have previously had no ability to interface with. For example in this report we had to both navigate Japanese as well as the domain-specific jargon, and do that while designing an experimental environment that would isolate variables and be actually testable. In my day-to-day doing web or ai platform programming, that's just not something I do. 
+>
+> Yet by being curious and asking, I was able to get an answer. Was it the _right_ answer? I think so, but would need to defer to others with more skills to evaluate what was done. This is the AI loop entirely: have a need, collaborate with AI, reach a result, validate with humans. 
+>
+> To me the excitement of AI is not that it will do my job for me, but that it will help me understand different parts of the world quicker than I otherwise would be able to. With this new understanding, I can then synthesize, create, and combine to make art, tools, and build knowledge.
+
 **Status: CONCLUDED (2026-07-17). The hypothesis cannot be tested with existing data.**
 
 Three independent routes were pursued to exhaustion; each closed for a different reason.
@@ -167,5 +178,8 @@ realistic Japan-like contrast. The chart's gaps are ~1.04× and ~1.13×. Run
 
 This is a low-prior hypothesis being given a fair test. We are pre-registering because
 the researcher degrees of freedom here are enormous and we would certainly find
-*something* if we looked freely. A well-characterised null with a tight upper bound is
-the most likely — and still publishable — outcome.
+*something* if we looked freely.
+
+
+
+
