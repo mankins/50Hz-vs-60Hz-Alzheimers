@@ -7,7 +7,7 @@ frequency split as a natural experiment.
 ## Context and Commentary
 
 > [!NOTE]
-> I, Matt Mankins (mankins@gmail.com), am not a scientist trained in the fields presented here. Do not take this for anything other than what it is: a single-session journey with Anthropic's Claude Code to investigate a whim I had many decades ago--I wondered if the addition of electricity to modern life had anything to do with the rise of some diseases, such as Alzheimer's, a disease that took my grandmother. (The conclusions here seem to indicate that no, there's nothing here.)
+> I, Matt Mankins (Twitter: @mankins), am not a scientist trained in the fields presented here. Do not take this for anything other than what it is: a single-session journey with Anthropic's Claude Code to investigate a whim I had many decades ago--I wondered if the addition of electricity to modern life had anything to do with the rise of some diseases, such as Alzheimer's, a disease that took my grandmother. (The conclusions here seem to indicate that no, there's nothing here.)
 >
 > What I find interesting was the use of AI to bring me into domains that I would have previously had no ability to interface with. For example in this report we had to both navigate Japanese as well as the domain-specific jargon, and do that while designing an experimental environment that would isolate variables and be actually testable. In my day-to-day doing web or ai platform programming, that's just not something I do. 
 >
