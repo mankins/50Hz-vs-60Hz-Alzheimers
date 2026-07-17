@@ -17,6 +17,9 @@ frequency split as a natural experiment.
 
 ## → Read [`REPORT.pdf`](./REPORT.pdf) first (14 pp). It is the synthesis of everything below.
 
+
+![50vs60](figures/gbd_diagnostic.png)
+
 **Status: CONCLUDED (2026-07-17). The hypothesis cannot be tested with existing data.**
 
 Three independent routes were pursued to exhaustion; each closed for a different reason.
