@@ -4,8 +4,6 @@ An attempt to test, rigorously, whether mains electricity frequency (50 Hz vs 60
 is associated with Alzheimer's disease / dementia burden — using Japan's internal
 frequency split as a natural experiment.
 
-## → Read `REPORT.pdf` first (14 pp). It is the synthesis of everything below.
-
 ## Context and Commentary
 
 > [!NOTE]
@@ -16,6 +14,8 @@ frequency split as a natural experiment.
 > Yet by being curious and asking, I was able to get an answer. Was it the _right_ answer? I think so, but would need to defer to others with more skills to evaluate what was done. This is the AI loop entirely: have a need, collaborate with AI, reach a result, validate with humans. 
 >
 > To me the excitement of AI is not that it will do my job for me, but that it will help me understand different parts of the world quicker than I otherwise would be able to. With this new understanding, I can then synthesize, create, and combine to make art, tools, and build knowledge.
+
+## → Read [`REPORT.pdf`](./REPORT.pdf) first (14 pp). It is the synthesis of everything below.
 
 **Status: CONCLUDED (2026-07-17). The hypothesis cannot be tested with existing data.**
 
