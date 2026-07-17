@@ -1,4 +1,4 @@
-# 50 vs 60 Hz and Alzheimer's Disease
+# 50 vs 60 Hz and Alzheimer's Disease, an AI exploration
 
 An exploration into whether mains electricity frequency (50 Hz vs 60 Hz)
 is associated with Alzheimer's disease / dementia burden — using Japan's internal
